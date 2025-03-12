@@ -1,0 +1,6 @@
+name: EasyTrade
+version: '1.0-dev'
+main: com.thesilentnights.easyTrade.EasyTrade
+api-version: '1.20'
+authors: [ thesilentnights ]
+description: a spigot plugin that provides a trade menu for player
